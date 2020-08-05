@@ -1,0 +1,16 @@
+C:\Users\szymo\source\repos\city\city\obj\Debug\netcoreapp2.1\city.csprojAssemblyReference.cache
+C:\Users\szymo\source\repos\city\city\obj\Debug\netcoreapp2.1\city.AssemblyInfoInputs.cache
+C:\Users\szymo\source\repos\city\city\obj\Debug\netcoreapp2.1\city.AssemblyInfo.cs
+C:\Users\szymo\source\repos\city\city\obj\Debug\netcoreapp2.1\city.csproj.CoreCompileInputs.cache
+C:\Users\szymo\source\repos\city\city\obj\Debug\netcoreapp2.1\city.RazorAssemblyInfo.cache
+C:\Users\szymo\source\repos\city\city\obj\Debug\netcoreapp2.1\city.RazorAssemblyInfo.cs
+C:\Users\szymo\source\repos\city\city\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\szymo\source\repos\city\city\bin\Debug\netcoreapp2.1\city.deps.json
+C:\Users\szymo\source\repos\city\city\bin\Debug\netcoreapp2.1\city.runtimeconfig.json
+C:\Users\szymo\source\repos\city\city\bin\Debug\netcoreapp2.1\city.runtimeconfig.dev.json
+C:\Users\szymo\source\repos\city\city\bin\Debug\netcoreapp2.1\city.dll
+C:\Users\szymo\source\repos\city\city\bin\Debug\netcoreapp2.1\city.pdb
+C:\Users\szymo\source\repos\city\city\obj\Debug\netcoreapp2.1\city.RazorTargetAssemblyInfo.cache
+C:\Users\szymo\source\repos\city\city\obj\Debug\netcoreapp2.1\city.dll
+C:\Users\szymo\source\repos\city\city\obj\Debug\netcoreapp2.1\city.pdb
+C:\Users\szymo\source\repos\city\city\obj\Debug\netcoreapp2.1\city.genruntimeconfig.cache
